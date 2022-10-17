@@ -16,9 +16,9 @@ void Entity::add_component(Component* _component) {
 	components.push_back(_component);
 }
 
-void Entity::update() {
+void Entity::update(float _delta) {
 	for (auto& c : components) {
-		c->update();
+		c->update(_delta);
 	}
 }
 

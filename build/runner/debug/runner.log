@@ -1,2 +1,5 @@
-﻿  main.cpp
-  runner.vcxproj -> C:\Users\kaktu\OneDrive\Skrivebord\2d Game\build\runner.debug.exe
+﻿  entity.cpp
+  main.cpp
+  player.cpp
+  Generating Code...
+  runner.vcxproj -> C:\Users\kaktu\OneDrive\Skrivebord\pineapple\2D-Game\build\runner.debug.exe
